@@ -21,7 +21,7 @@ specifiers:
   dotenv: ^16.0.3
   eslint: ^8.29.0
   eslint-plugin-security: ^1.5.0
-  nanoid: 3.x.x
+  nanoid: 4.x
   parse-duration: ^1.0.2
   pino: ^8.7.0
   pino-pretty: ^9.1.1
@@ -53,7 +53,7 @@ dependencies:
   discord.js: 14.7.1
   dotenv: 16.0.3
   eslint: 8.30.0
-  nanoid: 3.3.4
+  nanoid: 4.0.0
   parse-duration: 1.0.2
   pino: 8.8.0
   pino-pretty: 9.1.1
@@ -1497,9 +1497,9 @@ packages:
     resolution: {integrity: sha512-2ZTgtl0nJsO0KQCjEpxcIr5D+Yv90plTitZt9JBfQvVJDS5seMl3FOvsh3+9CoYWXf/1l5OaZzzF6nDm4cagaQ==}
     dev: false
 
-  /nanoid/3.3.4:
-    resolution: {integrity: sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw==}
-    engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
+  /nanoid/4.0.0:
+    resolution: {integrity: sha512-IgBP8piMxe/gf73RTQx7hmnhwz0aaEXYakvqZyE302IXW3HyVNhdNGC+O2MwMAVhLEnvXlvKtGbtJf6wvHihCg==}
+    engines: {node: ^14 || ^16 || >=18}
     hasBin: true
     dev: false
 
